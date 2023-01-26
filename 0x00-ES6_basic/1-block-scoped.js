@@ -1,3 +1,4 @@
+#!/usr/bin/node
 /**
  * If trueOrFalse is true, then return [true, false], otherwise return [false, true].
  */
